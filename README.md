@@ -1,4 +1,4 @@
 
 # fraud_detection
 Fraud detection project
-Description file
+Description file for the project
